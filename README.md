@@ -26,6 +26,12 @@ Using the Java editor of your choice (Eclipse was used to make the program), imp
 
 ## Appendix
 
+### Sushi Type
+
+- Nigiri: 0.75 oz. of chosen meat and 0.5 oz. of rice
+- Sashimi: 0.75 oz. of chosen meat
+- Roll: Player determined
+
 ### Ingredient Cost
 
 - Avocado \$0.22
@@ -43,3 +49,11 @@ Using the Java editor of your choice (Eclipse was used to make the program), imp
 - Green \$2.00
 - Blue \$4.00
 - Gold \$5.00-\$10.00 (User determined)
+
+## Acknowledgements
+
+This project was done as a semester long assignment for the Computer Science 401 course at UNC-Chapel Hill.
+
+## Author
+
+Andrew Le
