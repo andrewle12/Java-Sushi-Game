@@ -16,7 +16,9 @@ Using the Java editor of your choice (Eclipse was used to make the program), imp
 
 - 1: Scoreboard that shows the current ranking of participants based on current criteria. The buttons below can be used to sort players using different criteria. Food consumed ranks the players by the amount of sushi weight consumed by customers. Balance ranks the players by their current monetary balance. Spoiled ranks the players by the ounce amount of sushi left uneaten and spoiled.
 - 2: The sushi "conveyor belt" where players can put their plate of sushi. Every rotation shifts the plate down one index value and loops back to the top. Plates can be clicked to show more information. Any single position cannot contain more than one plate. Ingredients will spoil after a set amount of time on the conveyor belt and will result in the total loss of plate.
+
   ![Plate Info](./assets/images/Capture2.PNG)
+
 - 3: The sushi maker UI is where the player chooses the ingredients and the type of sushi they will make. They will then decide which color plate to put their sushi on as different plates have different pricing for the customer (See Appendix). Only for gold plates can the player choose the price to the customer.
 - 4: The roll maker UI option is only if the player decides to make a sushi roll from the above section. The player may choose any amount of the listed ingredients to include in the sushi roll. However, if the cost to produce the sushi exceeds the pricing of the plate, the plate will not be successfully listed on the conveyor belt.
 - 5: The "Make" button which places the plate onto the conveyor belt if the requested index position is available otherwise it will place it at the next nearest available position. The plate will not be placed if the cost of the ingredients exceeds the price at which the plate is sold (determined by its color).
