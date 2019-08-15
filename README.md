@@ -50,6 +50,12 @@ Using the Java editor of your choice (Eclipse was used to make the program), imp
 - Blue \$4.00
 - Gold \$5.00-\$10.00 (User determined)
 
+### Plate Spoil Rules
+
+- A plate with sushi that contains shellfish spoils after it has gone around the belt at least 1 time.
+- A plate with sushi that does not contain shellfish but is not vegetarian spoils after it has gone around the belt at least 2 times.
+- A plate with vegetarian sushi on it spoils after it has gone around the belt at least 3 times.
+
 ## Acknowledgements
 
 This project was done as a semester long assignment for the Computer Science 401 course at UNC-Chapel Hill.
