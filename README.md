@@ -1,1 +1,1 @@
-# Java-Sushi-Game
+# Java Sushi Cookoff
