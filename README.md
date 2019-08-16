@@ -6,7 +6,7 @@ A Java application that makes use of Object-oriented programming to create a sin
 
 ## How to run
 
-Using the Java editor of your choice (Eclipse was used to make the program), import the .jar file into your source folder. Inside the sushigame.game folder, there is a SushiGame.java file. Run the SushiGame.java file and the game window should appear.
+Using a Java IDE of your choice (Eclipse was used to make this program), import the .jar file into your source folder. Inside the sushigame.game folder, there is a SushiGame.java file. Run the SushiGame.java file and the game window should appear.
 
 ![Main Window](./assets/images/Capture.PNG)
 
